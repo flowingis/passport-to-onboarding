@@ -135,7 +135,7 @@ Con controllo di gestione si intende quindi la capacità di avere sotto controll
 * concetti che potrebbero essere a lui nuovi (senza farlo sentire inappropriato) 
 * il concetto di team inteso come gruppo di lavoro che opera insieme in funzione di un obiettivo, scardinando la classica visione di cliente/fornitore dove gli interessi personali diventano disfunzionali al progetto.
 
-## F.A.Q. SoR
+## Come gestire il SoR quando…
 
 > **Qual è il modo giusto per raccontare il SoR ad un cliente abituato ad altri tipi di contratto?**
 È difficile rispondere a questa domanda in poche righe. Prima di tutto è importante capire il contesto e chi sono gli interlocutori per meglio calibrare lo storytelling. E’ necessario investire molto tempo a spiegare cosa significa secondo noi sviluppare un software; spesso viene semplificato con “ti dico cosa voglio, me lo stimi e lo fai”, il contratto è una conseguenza di questo pensiero - quindi tendenzialmente, a corpo. Una delle frasi chiave è “il software è un processo di learning” che spesso fa riflettere l’interlocutore. Spesso poi una discovery fa emergere ambiguità che non fanno che confermare questo pensiero, per partire con una discovery è un ottimo primo step.

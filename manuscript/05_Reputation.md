@@ -160,9 +160,3 @@ Quando partecipi a eventi e conferenze come speaker o attendee, ricorda che:
 * Per le serate "social" ti chiediamo di non danneggiare in alcun modo l'immagine aziendale, indossare la T-shirt Flowing è caldamente consigliato.
 
 [^shirt]: Se i capi a tua disposizione sono rovinati, fallo presente e ne compreremo di nuovi.
-
-
-
-
-
-
