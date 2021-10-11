@@ -45,7 +45,7 @@ Eccoti una piccola guida pratica al SoR. Come vedi l’Iteration Meeting (diviso
 4. Il progetto continua con questo flusso fino a che il progetto non si conclude in maniera “naturale”
 
 {width: "75%"}
-![Figura 2.1 - Flowchart del SoR](SOR.png)
+![Figura 2.1 - Flowchart del SoR](SOR.svg)
 
 ## Time and Materials
 
