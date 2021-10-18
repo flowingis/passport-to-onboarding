@@ -61,7 +61,7 @@ Perché abbiamo riscontrato che non è sempre adatto al nostro contesto compless
 Questo non significa che non ci sia del buono Scrum o in altri framework, ma quello che Flowing fa è cercare di capirne il valore, estrarne i principi e lasciare ai team la facoltà e l’onere di decidere quali pratiche adottare per portare valore ai nostri clienti. Questo significa che, fatti salvi i principi e le pratiche elencate qui, il team è libero di decidere se fare standup-meeting, lavorare in pair oppure no o se mettere un WIP stringente alle loro board.
 
 {width: "75%"}
-![Figura 3.1 - Our Flow](Ourflow.svg)
+![Figura 3.1 - Our Flow](Ourflow.png)
 
 ## Time tracking: l’importanza di far quadrare i conti, redditività e produttività
 

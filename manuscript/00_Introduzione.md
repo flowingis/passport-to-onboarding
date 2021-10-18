@@ -9,4 +9,4 @@ Se invece sei un nuovo Surfer o addirittura stai pensando di entrare nella commu
 
 Come Flowing, anche questa guida è in continua evoluzione, per cui se hai spunti di miglioramento o feedback sei invitato a parlarne negli appositi canali o a lasciare una Pull Request sul nostro repository GitHub[^github].
 
-[^github]: <https://github.com/flowingis/guida-galattica-per-surfers>
+[^github]: <https://github.com/flowingis/passport-to-onboarding>
