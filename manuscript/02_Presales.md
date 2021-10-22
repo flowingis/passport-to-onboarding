@@ -70,16 +70,16 @@ Dalla Discovery possono emergere diverse attività in base al progetto e allo sc
 Anche se la Discovery varia di volta in volta a seconda dello scenario ci sono quattro tipi di approcci che teniamo in questa fase:
 
 **Discovery generica**
-: un formato che prevede un’agenda esplorativa con un focus generico volto a stressare l’idea e i bisogni di business. Ha l’obiettivo di fare chiarezza, allineare cliente e team Flowing e sottolineare i punti di forza e le mancanze del progetto in base alle aspettative.
+: un format[^discovery] che prevede un’agenda esplorativa con un focus generico volto a stressare l’idea e i bisogni di business. Ha l’obiettivo di fare chiarezza, allineare cliente e team Flowing e sottolineare i punti di forza e le mancanze del progetto in base alle aspettative.
 
 **Assessment infrastrutturale**
-: una Discovery con focus prevalentemente sull’infrastruttura con l’obiettivo di portare alla luce gli interventi necessari per renderla adeguata alle esigenze.
+: una Discovery[^assessment] con focus prevalentemente sull’infrastruttura con l’obiettivo di portare alla luce gli interventi necessari per renderla adeguata alle esigenze.
 
 **Architectural clash**
-: un format con scope specifico per progetti o software in cui la scelta tecnologica diventa una scelta strategica.
+: un format[^clash] con scope specifico per progetti o software in cui la scelta tecnologica diventa una scelta strategica.
 
 **Software renovation sprint**
-: una Discovery con un focus sullo stato del progetto volto a mappare lo stato dell’arte e individuare le attività principali per renderlo scalabile in modo efficace.
+: una Discovery[^sprint] con un focus sullo stato del progetto volto a mappare lo stato dell’arte e individuare le attività principali per renderlo scalabile in modo efficace.
 
 Tuttavia la Discovery non è solo il primo incontro. Discovery è anche un *“tag”* che adoperiamo per tutto un flusso di attività che vengono svolte anche durante il progetto, in modo iterativo o continuo. Il valore che il team Flowing eroga infatti non è solo nella “delivery” (attività di rilascio infrastrutture, codice e/o design) ma anche nelle attività di “learning” (analisi, ricerche utenti, spike, demo). Le fasi di learning si parallelizzano alle attività di delivery e impegnano il team a rinnovare la consapevolezza sulle evoluzioni del progetto. In questo modo si mantiene sempre la bussola sugli obiettivi di business e sui bisogni degli utenti evitando tutti gli antipattern classici di un processo di sviluppo asettico che causa il distorto obiettivo di espletamento del backlog fine a se stesso.
 
@@ -92,3 +92,7 @@ Quando stai costruendo una proposta insieme al commerciale, ricordati del resto 
 [^github]: <https://github.com/flowingis/money-back-guarantee-contract>
 [^iterazione]: <https://www.agilealliance.org/glossary/iteration>
 [^kill]: <https://www.flowing.it/blog/agile-planning-e-decisioni-keep-kill-transform/>
+[^discovery]: <https://www.flowing.it/discovery/>
+[^assessment]: <https://www.flowing.it/assessment-infrastruttura/>
+[^clash]: <https://www.flowing.it/architectural-clash/>
+[^sprint]: <https://www.flowing.it/software-renovation-sprint/>
