@@ -1,13 +1,14 @@
 # Presales
 
 In Flowing le attività commerciali non sono ad appannaggio esclusivo del nostro reparto sales, ma in ogni fase della trattativa commerciale c’è sempre la presenza di un Surfer operativo che fa da spalla al commerciale per costruire a quattro mani la proposta migliore possibile. È dunque importante conoscere le caratteristiche di tutti i nostri servizi principali e delle forme contrattuali.
-Tipologie di contratto
+
+# Tipologie di contratto
 
 Quando parte un nuovo progetto utilizziamo tre tipologie di contratto: Soddisfatti o Rimborsati (SoR), Time and Materials (T&M) e a Corpo.
 
 ## Soddisfatti o Rimborsati
 
-È la tipologia di contratto che più ci caratterizza e ci identifica. Puoi leggerne una versione semplificata su GitHub[^github]. *In a Nutshell*, il contratto SoR sancisce tra noi ed il nostro cliente, una modalità di lavoro basata sul valore e non sul tempo che il team impiega a produrre quel valore. Quando si lavora con un contratto SoR infatti il costo di una Iterazione[^iterazione] (settimanale o bi-settimanale) viene definito all’inizio del progetto e non è strettamente legato al tempo che il team lavora per il cliente durante l’iterazione.
+È la tipologia di contratto che più ci caratterizza e ci identifica. Puoi leggerne una versione semplificata su GitHub[^github_SoR]. *In a Nutshell*, il contratto SoR sancisce tra noi ed il nostro cliente, una modalità di lavoro basata sul valore e non sul tempo che il team impiega a produrre quel valore. Quando si lavora con un contratto SoR infatti il costo di una Iterazione[^iterazione] (settimanale o bi-settimanale) viene definito all’inizio del progetto e non è strettamente legato al tempo che il team lavora per il cliente durante l’iterazione.
 
 Il fattore più caratteristico di questa tipologia di contratto è che il valore prodotto durante lo sprint deve essere ritenuto congruo dal cliente in base al costo dell’iterazione (e viene fatto nell’iteration Planning) e anche validato una volta consegnata la delivery dello sprint (viene fatto nell’iteration review). Il cliente può quindi non accettare l’iterazione se non incontra le sue aspettative. Quando succede il team ha l’onere di cercare di capire come mai quest’ultime sono state disattese, cercando di lavorare su vari aspetti della comunicazione con il cliente. Se il team crede che non ci siano le condizioni per lavorare con il cliente, perché magari non ha colto il funzionamento alla base del contratto SoR allora si procede con un Kill[^kill] e il progetto si conclude.
 
@@ -39,8 +40,8 @@ Eccoti una piccola guida pratica al SoR. Come vedi l’Iteration Meeting (diviso
 
 1. Ogni iterazione inizia con un Iteration Planning in cui il team ed in cliente decidono quali sono le attività che verranno svolte all’interno di quell’iterazione.
 2. Il Team Flowing lavora all’iterazione, facendo il possibile per portare a termine le attività.
-3. Alla fine dello l’Iteration Review il cliente valida il lavoro fatto, decidendo se vuole pagare l’iterazione oppure no.
-    1. Se il cliente dà un esito positivo l’iterazione verrà fatturata ed il progetto continua per l'iterazione successivo
+3. Alla fine dell’iterazione, durante l’Iteration Review, il cliente valida il lavoro fatto, decidendo se vuole pagare l’iterazione oppure no.
+    1. Se il cliente dà un esito positivo, l’iterazione verrà fatturata ed il progetto continua per l'iterazione successiva
     2. Se il cliente invece decide di non pagare l’iterazione, Flowing può decidere di continuare a lavorare con il cliente (non incassando l’iterazione) oppure concludere il progetto
 4. Il progetto continua con questo flusso fino a che il progetto non si conclude in maniera “naturale”
 
@@ -65,7 +66,7 @@ Il team in questo caso deve stare attento fondamentalmente al budget e a gestire
 ## Product Discovery
 
 La Discovery (letteralmente tradotto: *scoperta*) è il primo passo del team Flowing verso le esigenze del cliente. Il primo incontro dove un team cross-funzionale dedica uno o più giorni a comprendere gli obiettivi del cliente, capire come validarli sui bisogni degli utenti e ipotizzare una roadmap da intraprendere. Queste informazioni sono appunto delle “scoperte” per il team ma anche per il cliente stesso. Il team tecnico e cross-funzionale infatti è in grado di portare il punto di vista delle diverse professionalità, dagli esperti di interazione utente, ingegneri del software e specialisti delle architetture. Tutte le competenze che possono stressare e/o individuare i principali road-block dell’idea del nostro cliente.
-Ecco che la Discovery non ha solo il valore del suo outcome, ovvero il piano di azione. Ma il più grande valore è la consapevolezza che ha generato nel nostro cliente. E averlo fatto insieme ha gettato il primo seme verso un team unito (team Flowing e cliente) che ha un obiettivo comune. Motivo per cui la Discovery non è né un’analisi del problema, né un momento conoscitivo. E’ il primo lavoro che il team Flowing fa per il cliente: un lavoro di scoperta e consapevolezza.
+Ecco che la Discovery non ha solo il valore del suo outcome, ovvero il piano di azione, ma il più grande valore è la consapevolezza che ha generato nel nostro cliente. E averlo fatto insieme ha gettato il primo seme verso un team unito (team Flowing e cliente) che ha un obiettivo comune. Motivo per cui la Discovery non è né un’analisi del problema, né un momento conoscitivo. E’ il primo lavoro che il team Flowing fa per il cliente: un lavoro di scoperta e consapevolezza.
 Dalla Discovery possono emergere diverse attività in base al progetto e allo scenario. Potranno avviarsi attività sull’infrastruttura, spike tecnologici, attività di user research o un primo backlog di features da espletare che sarà poi suddiviso in rilasci con la granularità delle user stories e gestito con un approccio agile e iterativo.
 Anche se la Discovery varia di volta in volta a seconda dello scenario ci sono quattro tipi di approcci che teniamo in questa fase:
 
@@ -89,7 +90,7 @@ Tuttavia la Discovery non è solo il primo incontro. Discovery è anche un *“t
 
 Quando stai costruendo una proposta insieme al commerciale, ricordati del resto delle Skill che Flowing può mettere a disposizione. Questo soprattutto quando ti viene chiesta una Skill specifica. Spesso problemi che sembrano di mero sviluppo si risolverebbero meglio con della UX, o con un lavoro sull’infrastruttura cloud. In questi frangenti ascolta la desiderata del cliente, ma sii pronto a fare una proposta diversa.
 
-[^github]: <https://github.com/flowingis/money-back-guarantee-contract>
+[^github_SoR]: <https://github.com/flowingis/money-back-guarantee-contract>
 [^iterazione]: <https://www.agilealliance.org/glossary/iteration>
 [^kill]: <https://www.flowing.it/blog/agile-planning-e-decisioni-keep-kill-transform/>
 [^discovery]: <https://www.flowing.it/discovery/>

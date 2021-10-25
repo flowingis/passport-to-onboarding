@@ -28,13 +28,13 @@ L’iteration Planning rappresenta il momento formale in cui l'iterazione ha ini
 
 #### Be prepared 
 
-L'Iteration Meeting è un momento importante e come tale va "preparato". Con il team potete organizzare anche un pre-iteration per pianificare l'incontro, fare una prevalidazione dei task conclusi e ragionare sui vari scenari possibile e soprattutto arrivare preparati all'incontro con delle proposte per il cliente. La preparazione può anche essere asincrona, se credi che un pre-incontro in call sia eccessivo. Ma l'importante è che l'IM non sia improvvisato rischiando di dover prendere decisioni al volo senza dare la possibilità al team di sincronizzarsi.
+L'Iteration Meeting è un momento importante e come tale va "preparato". Con il team potete organizzare anche un pre-iteration per pianificare l'incontro, fare una prevalidazione dei task conclusi e ragionare sui vari scenari possibile e soprattutto arrivare preparati all'incontro con delle proposte per il cliente. La preparazione può anche essere asincrona, se credi che un pre-incontro in call sia eccessivo. L'importante è che l'IM non sia improvvisato rischiando di dover prendere decisioni al volo senza dare la possibilità al team di sincronizzarsi.
 
 La stessa cosa vale per la review: se devi mostrare una demo fai in modo di averla testata in precedenza e che sia tutto pronto per fare vedere il flusso da validare. Se ci sono piccoli problemi da risolvere, fai capire al cliente che ne hai già preso coscienza e che li risolverai quanto prima.
 
 #### Non solo Kanban
 
-Sappiamo tutti che un buon utilizzo della Kanban è fondamentale per ottimizzare il flusso delle attività. Ma spesso non è abbastanza, soprattutto in fasi concitate come la vicinanza ad una deadline. In questi momenti cerca di creare un rapporto positivo basato sull'empatia e sull'ascolto attivo. Spesso infatti, i conflitti che nascono all'interno di un progetto derivano da incomprensioni o paure del PO.
+Sappiamo tutti che un buon utilizzo della Kanban è fondamentale per ottimizzare il flusso delle attività, ma spesso non è abbastanza, soprattutto in fasi concitate come la vicinanza ad una deadline. In questi momenti cerca di creare un rapporto positivo basato sull'empatia e sull'ascolto attivo. Spesso infatti, i conflitti che nascono all'interno di un progetto derivano da incomprensioni o paure del PO.
 
 #### Rendi palesi i vincoli
 
@@ -71,11 +71,11 @@ In ogni caso però, dato che in questo caso la variabile che incide sulla fattur
 
 ## Kick-off (primo IM)
 
-Il primo IM - a cui diamo il nome di Kick-off - è un po’ particolare. Non può, per ovvie ragioni, contenere la parte di Iteration Review. Ma ci sono un paio di cose da tenere a mente in questa prima fase.
+Il primo IM - a cui diamo il nome di Kick-off - è un po’ particolare. Non può, per ovvie ragioni, contenere la parte di Iteration Review. Ci sono un paio di cose da tenere a mente in questa prima fase.
 
 #### Fai Presentare il Team
 
-Ricorda di presentarti e di presentare tutto il team, alla discovery potrebbe aver partecipato solo una parte del team. Se puoi apri la telecamera e fatti vedere dal cliente renderai le presentazioni più "umane". Chiedi inoltre di far presentare tutti le persone del team cliente che parteciperanno agli IM e fatti spiegare quale è il loro ruolo. Se noti infatti che ci sono persone diverse da quelle che sono emerse durante la discovery o che il mappa di potere sembra essere diversa rendilo palese. Questo può evitare fraintendimenti futuri su chi deve fare cosa durante il proseguo del progetto.
+Ricorda di presentarti e di presentare tutto il team, alla discovery potrebbe aver partecipato solo una parte del team. Se puoi apri la telecamera e fatti vedere dal cliente renderai le presentazioni più "umane". Chiedi inoltre di far presentare tutti le persone del team cliente che parteciperanno agli IM e fatti spiegare quale è il loro ruolo. Se noti infatti che ci sono persone diverse da quelle che sono emerse durante la discovery o che la mappa di potere sembra essere diversa rendilo palese. Questo può evitare fraintendimenti futuri su chi deve fare cosa durante il proseguo del progetto.
 
 #### Presenta Our Flow
 
@@ -138,7 +138,7 @@ Con controllo di gestione si intende quindi la capacità di avere sotto controll
 ## Come gestire il SoR quando…
 
 > **Qual è il modo giusto per raccontare il SoR ad un cliente abituato ad altri tipi di contratto?**
-È difficile rispondere a questa domanda in poche righe. Prima di tutto è importante capire il contesto e chi sono gli interlocutori per meglio calibrare lo storytelling. E’ necessario investire molto tempo a spiegare cosa significa secondo noi sviluppare un software; spesso viene semplificato con “ti dico cosa voglio, me lo stimi e lo fai”, il contratto è una conseguenza di questo pensiero - quindi tendenzialmente, a corpo. Una delle frasi chiave è “il software è un processo di learning” che spesso fa riflettere l’interlocutore. Spesso poi una discovery fa emergere ambiguità che non fanno che confermare questo pensiero, per partire con una discovery è un ottimo primo step.
+È difficile rispondere a questa domanda in poche righe. Prima di tutto è importante capire il contesto e chi sono gli interlocutori per meglio calibrare lo storytelling. E’ necessario investire molto tempo a spiegare cosa significa secondo noi sviluppare un software; spesso viene semplificato con “ti dico cosa voglio, me lo stimi e lo fai”, il contratto è una conseguenza di questo pensiero - quindi tendenzialmente, a corpo. Una delle frasi chiave è “il software è un processo di learning” che spesso fa riflettere l’interlocutore. Spesso poi una discovery fa emergere ambiguità che non fanno che confermare questo pensiero ed è perciò un primo step che garantisce valore.
 Si può far leva sulla condivisione del rischio che nelle altre tipologie di contratto è sbilanciata da una parte o dall’altra.
 Ricorda sempre che nel tuo team ci sono anche i sales che possono aiutarti nel racconto a referenti del cliente di più alto profilo con i quali non ti interfacci quotidianamente.
 
