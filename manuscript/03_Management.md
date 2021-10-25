@@ -75,8 +75,8 @@ Questo significa che la rendicontazione del tempo di ogni Surfer non sarà mai i
 
 ## La condivisione dei dati amministrativi (open by default)
 
-Ogni mese inviamo una mail di riepilogo con i dati di sintesi che comunichiamo a tutti i Surfers: dipendenti, soci e amministratori. I dati che vengono comunicati sono stati concordati con i Surfer, sulla base delle loro esigenze, necessità e richieste e mirano a fornire, oltre che una consapevolezza sull’andamento aziendale, anche degli elementi per migliorare le proprie  performance.
-Pertanto, i dati forniti sono:
+Ogni mese inviamo una mail di riepilogo con i dati di sintesi che comunichiamo a tutti i Surfers: dipendenti, soci e amministratori. I dati che vengono comunicati sono stati concordati con i Surfer, sulla base delle loro esigenze, necessità e richieste e mirano a fornire, oltre che una consapevolezza sull’andamento aziendale, anche degli elementi per migliorare le proprie  performance. Pertanto, i dati forniti sono:
+
 **di tipo economico a consuntivo**
 : fatturato, ricavi, redditività complessiva e pro-capite, marginalità sia a livello sintetico che con focus per progetto e business unit (Development, Cloud, Design);
 **di performance operative**
