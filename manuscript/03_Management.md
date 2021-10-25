@@ -50,7 +50,7 @@ Sarebbe più facile per noi dire “lavoriamo in Scrum” e sfruttare quindi un 
 Perché non lo applichiamo in maniera dogmatica ad ogni tipologia di progetto e cliente?
 
 Perché abbiamo riscontrato che non è sempre adatto al nostro contesto complesso per una serie di ragioni, tra cui:
-1. Essendo Flowing un’azienda di servizi e non di prodotto, il modo in cui facciamo la delivery ha anche delle conseguenze economiche che ricadono su di noi che sullo sviluppo dei prodotti dei nostri clienti.
+1. Essendo Flowing un’azienda di servizi e non di prodotto, il modo in cui facciamo la delivery ha anche delle conseguenze economiche che ricadono sia su di noi, che sullo sviluppo dei prodotti dei nostri clienti.
 2. Ci confrontiamo con clienti che hanno culture molto eterogenee (dalle più piramidali alle più orizzontali) e in molti casi non possiamo imporre un framework abbastanza strutturato da subito, piuttosto necessitiamo flessibilità e tempo per lavorare sull’allineamento culturale del cliente.
 3. Capita che un surfer lavori a più di un prodotto contemporaneamente, rendendo quindi inefficiente partecipare a tutti i riti imposti da Scrum.
 4. I nostri team potrebbero dover integrarsi con persone di aziende partner o del cliente stesso al fine di essere cross-funzionali, creando quindi dipendenze e relazioni più complesse di quelle previste da Scrum.

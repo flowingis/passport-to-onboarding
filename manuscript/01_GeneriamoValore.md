@@ -56,10 +56,11 @@ Nessuno sarà contento dell’infrastruttura più robusta, del codice senza debi
 In Flowing sappiamo che imparare è parte integrante del percorso di un professionista.
 Sia nello sviluppo che nel design si impara qualcosa di nuovo tutti i giorni, sul dominio, sulla tecnologia e su nuovi approcci e format. Oltre alle classiche tecniche per condividere informazioni con il tuo team quali Pair Programming, Pair Design, Peer Review, Mob Programming, Lightweight Architecture Decision Records (LADR)[^ladr], etc ricordati sempre di condividere quello che impari con il resto dei Surfers, sfruttando le pill e l’Academy. Ricordati, siamo una community e quello che hai imparato può aiutare qualcun altro che è in difficoltà.
 
-[^ladr]: https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records
+[^ladr]: <https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records>
 
 ### Indipendenza
-Flowing si fida di te. Prenderai insieme al tuo team le decisioni giuste nel giusto contesto. Per questo, sii indipendente e partecipa in maniera proattiva al tuo processo di crescita, co-crealo con l’azienda. Se credi che una tecnica, un linguaggio, un format, una tecnica o una metodologia possa essere utile al progetto o all’intera community di Flowing, prenditi dello slack time per approfondire.
+Flowing si fida di te. Prenderai insieme al tuo team le decisioni giuste nel giusto contesto. Per questo, sii indipendente e partecipa in maniera proattiva al tuo processo di crescita, co-crealo con l’azienda. Se credi che una tecnica, un linguaggio, un format, una tecnica o una metodologia possa essere utile al progetto o all’intera community di Flowing, prenditi del tempo per approfondire.
+Questa attività di studio, assieme ad altre (formazione ecc. ecc.), ricadono internamente sotto la commessa: "slack time".
 
 ## Development, Design e Cloud
 I capitoli discussi sopra dovrebbero aiutarti a capire cosa Flowing si aspetta da ogni professionista nel suo day-by-day e dal suo contributo nei team, dandoti una serie di principi e linee guida da seguire quando ne senti il bisogno. In Flowing non c’è una giornata “tipo”, ogni giorno è differente dai precedenti, possiamo dire che non ci si annoia mai!
